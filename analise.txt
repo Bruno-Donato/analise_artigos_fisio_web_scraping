@@ -1,0 +1,16 @@
+Sobre o tema lombalgia foram encontrados 2927 estudos desde o ano 1955
+Sobre o tema cervicalgia foram encontrados 1482 estudos desde o ano 1966
+
+lombalgia = pd.read_csv(r'C:/Users/55199/Desktop/Arquivos para análise/web_scraping_artigos_fisio_anos/arquivos/lombalgia.csv')
+cervicalgia = pd.read_csv(r'C:/Users/55199/Desktop/Arquivos para análise/web_scraping_artigos_fisio_anos/arquivos/cervicalgia.csv')
+dor_tornozelo = pd.read_csv(r'C:/Users/55199/Desktop/Arquivos para análise/web_scraping_artigos_fisio_anos/arquivos/dor_tornozelo.csv')
+entorse_tornozelo = pd.read_csv(r'C:/Users/55199/Desktop/Arquivos para análise/web_scraping_artigos_fisio_anos/arquivos/entorse_tornozelo.csv')
+
+Image(filename='C:/Users/55199/Desktop/Arquivos para análise/web_scraping_artigos_fisio_anos/imagens/lombalgia anos.png')
+
+Image(filename='C:/Users/55199/Desktop/Arquivos para análise/web_scraping_artigos_fisio_anos/imagens/nota lombalgia.png')
+
+Image(filename='C:/Users/55199/Desktop/Arquivos para análise/web_scraping_artigos_fisio_anos/imagens/cervicalgia anos.png')
+
+Image(filename='C:/Users/55199/Desktop/Arquivos para análise/web_scraping_artigos_fisio_anos/imagens/nota cervicalgia.png')
+
